@@ -34,7 +34,7 @@ const Sidebar = ({ open, toggleSidebar, user }) => {
     if (!name) {
       return '';
     }
-    const splittedName = name.split();
+    const splittedName = name.split(' ');
 
     return `${splittedName[0][0]}${splittedName[1] ? splittedName[1][0] : ''}`;
   };

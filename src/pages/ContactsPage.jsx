@@ -10,7 +10,7 @@ import {
 } from '@material-ui/core';
 
 import contacts from '../data/contacts';
-import Sidebar from '../components/Sidebar';
+import Sidebar from '../components/Sidebar/index';
 
 const useStyles = makeStyles({
   tableRow: {

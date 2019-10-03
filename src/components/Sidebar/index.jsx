@@ -27,7 +27,7 @@ const useStyles = makeStyles({
     justifyContent: 'center',
     alignItems: 'center',
     borderRadius: '20px',
-    fontFamily: 'Roboto, sans-serif'
+    fontFamily: 'Circular STD Medium, sans-serif'
   },
 
   userName: {
@@ -47,7 +47,7 @@ const useStyles = makeStyles({
   primaryButton: {
     height: '35px',
     backgroundColor: 'rgba(71,73,160,0.1)',
-    fontFamily: 'Robot, sans-serif',
+    fontFamily: 'Circular STD Book, sans-serif',
     color: '#4749A0',
     fontSize: '12px',
     borderRadius: 8,
@@ -60,7 +60,7 @@ const useStyles = makeStyles({
   secondaryButton: {
     height: '35px',
     backgroundColor: 'rgba(255,126,92,0.1)',
-    fontFamily: 'Roboto, sans-serif',
+    fontFamily: 'Circular STD Book, sans-serif',
     color: ' #FF7E5C',
     fontSize: '12px',
     borderRadius: 8,

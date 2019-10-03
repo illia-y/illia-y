@@ -16,7 +16,7 @@ const useStyles = makeStyles({
   tab: {
     height: '100%',
     color: '#ACB5C3',
-    fontFamily: 'Roboto, sans-serif',
+    fontFamily: 'Circular STD Book, sans-serif',
     fontSize: '14px',
     display: 'flex',
     justifyContent: 'center',
@@ -55,7 +55,7 @@ const useStyles = makeStyles({
     '& > h5': {
       color: '#ACB5C3',
       fontSize: '10px',
-      fontFamily: 'Roboto, sans-serif',
+      fontFamily: 'Circular STD Book, sans-serif',
       fontWeight: 100,
       textTransform: 'uppercase',
       margin: '0 0 4px 0'
@@ -66,7 +66,7 @@ const useStyles = makeStyles({
     color: '#272C5E',
     fontSize: '14px',
     whiteSpace: 'nowrap',
-    fontFamily: 'Roboto, sans-serif',
+    fontFamily: 'Circular STD Book, sans-serif',
     fontWeight: 100,
 
     '&:last-child': {

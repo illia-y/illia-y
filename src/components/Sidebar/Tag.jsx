@@ -9,7 +9,7 @@ const useStyles = makeStyles({
     borderRadius: '6px',
     backgroundColor: '#fff',
     color: '#4749A0',
-    fontFamily: 'Roboto, Helvetica, sans-serif',
+    fontFamily: 'Circular STD Book, sans-serif',
     fontSize: '10px',
     display: 'flex',
     paddingLeft: '7px',
